@@ -1,16 +1,31 @@
-## Hi there 👋
+![DevOps Engineer Banner](https://raw.githubusercontent.com/aishwarya-bhand/aishwarya-bhand/main/devops-banner.jpg)
 
-<!--
-**aishwarya-bhand/aishwarya-bhand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Aishwarya Bhand 👋
 
-Here are some ideas to get you started:
+## 🚀 DevOps Engineer | Cloud & Automation Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub! I’m a passionate DevOps Engineer skilled in designing and automating modern cloud infrastructures, CI/CD pipelines, and robust deployment workflows.
+
+### 💼 About Me
+
+- 🛠️ **Specialties:**  
+  - Cloud Platforms: Google Cloud, AWS, Azure  
+  - Automation & IAC: Terraform, Ansible  
+  - Containerization: Docker, Kubernetes  
+  - CI/CD: Jenkins  
+  - OS & Scripting: Linux, Shell scripting  
+  - DevOps Best Practices
+
+- 🌱 Always exploring the latest in cloud, automation, and platform engineering.
+- 🧩 Committed to efficient, secure, and scalable solutions.
+
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-Aishwarya%20Bhand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aishwarya-bhand)](https://www.linkedin.com/in/aishwarya-bhand)
+
+### 📈 Featured Projects
+*Coming soon!*
+
+---
+
+> “Automate the mundane, innovate the essential.”
